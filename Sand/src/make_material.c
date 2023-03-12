@@ -11,7 +11,7 @@ material init_void()
 {
     material voids;
     voids.type = VOID;
-    voids.color = MAGENTA;
+    voids.color = BLACK;
     voids.repesentation = '~';
     voids.x = 0;
     voids.y = 0;

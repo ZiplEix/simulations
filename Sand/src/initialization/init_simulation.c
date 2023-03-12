@@ -24,7 +24,8 @@ simulation *init_simulation(char *filename)
     if (get_map(filename, simu) == 1)
         exit(84);
     simu->map = init_map(simu);
-    simu->time_gap = 1000;
+    simu->time_gap = 100;
+    simu->cycle = 0;
 
     return simu;
 }

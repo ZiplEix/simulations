@@ -54,6 +54,8 @@ typedef struct simulation_t {
     char **char_map;
     material **map;
 
+    int cycle;
+
     window *window;
 } simulation;
 
