@@ -1,4 +1,6 @@
-# simulations
+# Simulations
+
+English readme : [README_EN.md](https://github.com/ZiplEix/simulations/blob/main/README_EN.md)
 
 Bienvenue dans mon projet de mini simulation en monde fermé et controlé.
 
@@ -23,3 +25,17 @@ Les moyens d'installation et d'utilisation sont décrits dans les README des dif
 >- Visualisation: [SPXE](https://github.com/LogicEu/spxe)
 >- Description: Simulation de sable qui tombe et se répand sur une surface.
 >- Lien : [Sand2](https://github.com/ZiplEix/simulations/tree/main/Sand_2)
+
+## Participation
+
+Toutes aide est la bienvenue. Vous pouvez contribuer en proposant des idées de simulations, en proposant des améliorations, en corrigeant des bugs ou bien en ajoutant de nouvelles simulations.
+
+## Contact
+
+Vous pouvez me contacter par mail à l'adresse suivante : `baptiste.leroyer@epitech.eu`
+
+Ou bein sur mon discord : `Baptiste Leroyer#8868`
+
+## Auteur
+
+Baptiste Leroyer
