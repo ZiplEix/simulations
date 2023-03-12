@@ -15,9 +15,10 @@ Les moyens d'installation et d'utilisation sont décrits dans les README des dif
     - Langage: C
     - Visualisation: Terminal (NCurses)
     - Description: Simulation de sable qui tombe et se répand sur une surface.
+    - Lien : [Sand1]()
 
 ### Sand 2
 
         - Langage: C
-        - Visualisation: [SPXE](https://github.com/LogicEu/spxe)
+        - Visualisation: <a href="https://github.com/LogicEu/spxe">SPXE</a>
         - Description: Simulation de sable qui tombe et se répand sur une surface. Les particules de sable sont représentées par des caractères ASCII.
