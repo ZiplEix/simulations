@@ -12,13 +12,14 @@ Les moyens d'installation et d'utilisation sont décrits dans les README des dif
 
 ### Sand 1
 
-    - Langage: C
-    - Visualisation: Terminal (NCurses)
-    - Description: Simulation de sable qui tombe et se répand sur une surface.
-    - Lien : [Sand1]()
+>- Langage: C
+>- Visualisation: Terminal (NCurses)
+>- Description: Simulation de sable qui tombe et se répand sur une surface. Les particules de sable sont représentées par des caractères ASCII.
+>- Lien : [Sand1](https://github.com/ZiplEix/simulations/tree/main/Sand_1)
 
 ### Sand 2
 
-        - Langage: C
-        - Visualisation: <a href="https://github.com/LogicEu/spxe">SPXE</a>
-        - Description: Simulation de sable qui tombe et se répand sur une surface. Les particules de sable sont représentées par des caractères ASCII.
+>- Langage: C
+>- Visualisation: [SPXE](https://github.com/LogicEu/spxe)
+>- Description: Simulation de sable qui tombe et se répand sur une surface.
+>- Lien : [Sand2](https://github.com/ZiplEix/simulations/tree/main/Sand_2)
