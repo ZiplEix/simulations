@@ -55,6 +55,7 @@ typedef struct simulation_t {
     material **map;
 
     int cycle;
+    int falling_entity_frequency;
 
     window *window;
 } simulation;

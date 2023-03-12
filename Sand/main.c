@@ -31,8 +31,8 @@ int handle_input(simulation *simulation)
 
 void update_simulation(simulation *simulation)
 {
-    if (simulation->cycle % 2 == 0) {
-        simulation->map[0][25] = init_sand();
+    if (simulation->cycle % simulation->falling_entity_frequency == 0) {
+        simulation->map[0][simulation->window->x/2] = init_sand();
     }
 
     for (int i = simulation->window->y - 1; i >= 0; i--) {
