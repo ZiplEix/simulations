@@ -26,6 +26,13 @@ Les moyens d'installation et d'utilisation sont décrits dans les README des dif
 >- Description: Simulation de sable qui tombe et se répand sur une surface.
 >- Lien : [Sand2](https://github.com/ZiplEix/simulations/tree/main/Sand_2)
 
+### Sand 3
+
+>- Langage: C
+>- Visualisation: [PXEG](https://github.com/ZiplEix/PXEG)
+>- Description: Simulation de sable qui tombe et se répand sur une surface.
+>- Lien : [Sand3](https://github.com/ZiplEix/simulations/tree/main/Sand_3)
+
 ## Participation
 
 Toutes aide est la bienvenue. Vous pouvez contribuer en proposant des idées de simulations, en proposant des améliorations, en corrigeant des bugs ou bien en ajoutant de nouvelles simulations.
