@@ -23,6 +23,12 @@ To compile the program, run the following command:
 
     make
 
+## the algorythm
+
+The algorythm is very simple. It is based on the fact that sand will fall down if there is nothing under it. If there is something under it, it will spread on the side if there is nothing.
+
+![Algorythm demonstration GIF](../assets/Sand_Algorythm.gif)
+
 ## Usage
 
 To run the program, run the following command:
@@ -34,7 +40,6 @@ Where `x` and `y` are the size of the simulation pixel buffer.
 `x` and `y` are optional.
 
 If only `x` is specified, the simulation will be a square of size `x`.
-
 
 ## Controls
 
